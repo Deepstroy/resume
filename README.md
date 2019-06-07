@@ -1,6 +1,6 @@
 # resume
 
-###Eucations :
+### Eucations :
 
 Bachelor's degree
 
