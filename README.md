@@ -9,6 +9,9 @@
 - Master's degree
 
   - Computer Science & Engineering, Yonsei University (2017.03 - 2019.02)
+  
+  - Master's Thesis : Emotion recognition by facial expression and bio signal feature fusion with CNN / LSTM Models, Graduate School, Yonsei University Department of Computer Science 2019.2
+
 
 ### Publications :
 1. Kwon, Y. H., Shin, S. B., & Kim, S. D. (2018). _Electroencephalography based fusion two-dimensional (2D)-convolution neural networks (CNN) model for emotion recognition system._ Sensors, 18(5), 1383.
