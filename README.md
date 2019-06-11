@@ -19,6 +19,6 @@ Master's degree
 
 
 ### Machine Learning / Deep Learning :
-   - [Machine Learning/Deep Learning 필수이론 및 구현코드](https://github.com/Deepstroy/resume/tree/master/Machine%20Lea)
+   - [Machine Learning/Deep Learning 필수이론 및 구현코드]()
    
-   - [Machine Learning/Deep Learning Project 및 구현코드](https://github.com/Deepstroy/)
+   - [Machine Learning/Deep Learning Project](https://github.com/Deepstroy/)
