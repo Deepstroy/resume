@@ -1,7 +1,7 @@
 # ML/DL 필수 이론 및 구현코드
 
 
-- ### Tensorflow 없이 Numpy로 Deep Learning 구현하기<br>
+- ### Tensorflow 없이 Numpy로 Deep Learning 구현하기 :<br>
 > **구현의 목적**
 >1. ML/DL의 수식을 기반으로 직접 코딩이 가능한 수준의 수학적 지식 습득 <br>
 >2. Numpy와 python의 coding 능력 향상 <br>
@@ -10,7 +10,7 @@
 
 <br>
 
-- ### Code<br>
+- ### Source code : <br>
 
 | ML/DL 이론 | Numpy code | Tensorflow code |
 |---|:---:|:---:|
