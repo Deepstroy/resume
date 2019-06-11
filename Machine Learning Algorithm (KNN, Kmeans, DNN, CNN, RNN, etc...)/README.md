@@ -2,7 +2,7 @@
 
 
 - ### Contents : Tensorflow 없이 Numpy로 Deep Learning 구현하기<br>
-####목표
+> **목표**
 >1. ML/DL의 수식을 기반으로 직접 코딩이 가능한 수준의 지식보유 <br>
 >2. Numpy와 python을 다루는데 능숙함 <br>
 >3. 즉, Neural Network를 numpy 기반의 python class로 작성 가능<br> 
