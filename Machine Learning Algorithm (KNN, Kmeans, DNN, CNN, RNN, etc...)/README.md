@@ -14,9 +14,9 @@
 
 | ML/DL 이론 | Numpy code | Tensorflow code |
 |---|:---:|---:|
-| K-NN | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_numpy.ipynb) | [Code Link]() |
-| K-Means | [Code Link](https://google.com) |  |
-| K-Median | [Code Link](https://google.com) |  |
+| K-NN | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_numpy.ipynb) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_tensorflow.ipynb) |
+| K-Means | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Means/K_means_numpy.ipynb) |  |
+| K-Median | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Median/K_Median_numpy.ipynb) |  |
 | 선형회귀<br>(Linear Regression) |   |   |
 | 다변수 선형회귀<br>(Multivariate Linear Regression) |  |  |
 | Optimizer의 종류별 구현<br> (논문 수식 기반)| [Code Link](https://google.com)  | [Code Link](https://google.com)  |
