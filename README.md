@@ -4,13 +4,12 @@
 
 Bachelor's degree
 
-  - Computer Science & Engineering, Soongsil University (2009.03 - 2017.02)
+  - Computer Science & Engineering, Soongsil University (2017.02)
 
 Master's degree
 
-  - Computer Science & Engineering, Yonsei University (2017.03 - 2019.02)
-  
-  - Master's Thesis : Emotion recognition by facial expression and bio signal feature fusion with CNN / LSTM Models, Graduate School, Yonsei University Department of Computer Science 2019.2
+  - Computer Science & Engineering, Yonsei University (2019.02)
+  - Master's Thesis : Emotion recognition by facial expression and bio signal feature fusion with CNN / LSTM Models
 
 
 ### Publications :
@@ -19,4 +18,7 @@ Master's degree
 2. Kwon, Y., Nan, Y., & Kim, S. D. (2017). _Transformation of EEG Signal for Emotion Analysis and Dataset Construction for DNN Learning._ In Advances in Computer Science and Ubiquitous Computing (pp. 96-101). Springer, Singapore.
 
 
-### Machine Learning Project :
+### Machine Learning / Deep Learning :
+   - [Machine Learning/Deep Learning 필수이론 및 구현코드](https://github.com/Deepstroy/resume/tree/master/Machine%20Lea)
+   
+   - [Machine Learning/Deep Learning Project 및 구현코드](https://github.com/Deepstroy/)
