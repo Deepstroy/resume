@@ -1,4 +1,5 @@
-#ML/DL 주요 이론 및 작성코드
+# ML/DL 필수 이론 및 작성 코드
+---------------------------------
 
 - ### Contents : _Tensorflow 없이 Numpy로 Deep learning 코딩하기_
 >  Why?
