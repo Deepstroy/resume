@@ -1,7 +1,7 @@
 # ML/DL 필수 이론 및 작성 코드
 
 
-- ### Contents : Tensorflow 없이 Numpy로 Deep Learning 구현하기
+- ### Contents : Tensorflow 없이 Numpy로 Deep Learning 구현하기<br>
 ####목표
 >1. ML/DL의 수식을 기반으로 직접 코딩이 가능한 수준의 지식보유 <br>
 >2. Numpy와 python을 다루는데 능숙함 <br>
@@ -18,7 +18,7 @@
 | K-Means | [Code Link](https://google.com) |  |
 | K-Median | [Code Link](https://google.com) |  |
 | 선형회귀<br>(Linear Regression) |   |   |
-| 다변수 선형회귀<br>(Multivariate<br>Linear Regression) |  |  |
+| 다변수 선형회귀<br>(Multivariate Linear Regression) |  |  |
 | Optimizer의 종류별 구현<br> (논문 수식 기반)| [Code Link](https://google.com)  | [Code Link](https://google.com)  |
 | DNN | [Code Link](https://google.com) | [Code Link](https://google.com) |
 | 주성분 분석<br>(PCA) | [Code Link](https://google.com) | [Code Link](https://google.com) |
