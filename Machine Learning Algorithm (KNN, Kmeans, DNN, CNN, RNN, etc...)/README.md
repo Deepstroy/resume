@@ -35,7 +35,7 @@
 | __Regression Methods__ |   |   | |
 | └─ Linear Regression |   |   | |
 | └─ Multivariate Linear Regression |  |  | |
-| __Deep Neural Networks__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| __★ Deep Neural Networks in numpy__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | └─ for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | └─ for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | **Auto Encoder** |  | | |
