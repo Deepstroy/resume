@@ -19,7 +19,7 @@
 | K-Median | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Median/K_Median_numpy.ipynb) |  |
 | Random Forest | Code Link | Code Link |
 | Decision tree | Code Link | Code Link |
-| Principle Component Analysis (PCA) |  |  |
+| Principle Component Analysis (PCA) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Principle%20Component%20Analysis/Principle%20Component%20Analysis_numpy.ipynb) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Principle%20Component%20Analysis/Principle_Component_Analysis_tensorflow.ipynb) |
 | __Optimal Parameter Search Method__ |  |  |
 | └──   Grid Search | [Code Link](https://google.com) | [Code Link](https://google.com) |
 | └── Gradient Descent Optimizer | [Code Link](https://google.com) | [Code Link](https://google.com) |
