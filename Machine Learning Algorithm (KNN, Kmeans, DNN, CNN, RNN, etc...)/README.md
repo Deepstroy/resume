@@ -17,8 +17,8 @@
 | K-NN | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_numpy.ipynb) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_tensorflow.ipynb) |
 | K-Means | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Means/K_means_numpy.ipynb) |  |
 | K-Median | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Median/K_Median_numpy.ipynb) |  |
-| Linear Regression<br>(선형회귀) |   |   |
-| Multivariate Linear Regression<br>(다변수 선형회귀) |  |  |
+| Linear Regression |   |   |
+| Multivariate Linear Regression |  |  |
 | Optimizer for GD <br>(논문 수식 기반)| [Code Link](https://google.com)  | [Code Link](https://google.com)  |
 | Deep Neural Networks | [Code Link](https://google.com) | [Code Link](https://google.com) |
 | Principle Component Analysis(PCA) | [Code Link](https://google.com) | [Code Link](https://google.com) |
