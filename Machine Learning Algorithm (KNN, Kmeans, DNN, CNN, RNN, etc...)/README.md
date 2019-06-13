@@ -10,38 +10,43 @@
 
 <br>
 
-- ### Source code : <br>
+- ### ML / DNN code: <br>
 
-| Classic ML and Deep Neural Networks | Numpy code | Tensorflow code |
-|---|:---:|:---:|
-| K-NN | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_numpy.ipynb) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_tensorflow.ipynb) |
-| K-Means | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Means/K_means_numpy.ipynb) |  |
-| K-Median | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Median/K_Median_numpy.ipynb) |  |
-| Random Forest | Code Link | Code Link |
-| Decision tree | Code Link | Code Link |
-| Principle Component Analysis (PCA) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Principle%20Component%20Analysis/Principle%20Component%20Analysis_numpy.ipynb) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Principle%20Component%20Analysis/Principle_Component_Analysis_tensorflow.ipynb) |
-| __Optimal Parameter Search Method__ |  |  |
-| └──   Grid Search | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| └── Gradient Descent Optimizer | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| └── Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
-| └── Nesterov Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
-| └── RMSProp Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
-| └── Adam Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
-| └── Jacobian, Hessian, ..etc theory  |  |  |
-| __Classic Regression Method__ |   |   |
-| └── Linear Regression |   |   |
-| └── Multivariate Linear Regression |  |  |
-| __Deep Neural Networks__ | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| └── for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| └── for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| Auto Encoder | [Code Link](https://google.com) | [Code Link](https://google.com) |
-
+| Classic ML and DNN | Numpy code | Tensorflow code | Contents |
+|---|:---:|:---:|:---:|
+| __K-NN__ | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_numpy.ipynb) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_tensorflow.ipynb) ||
+| **K-Means** | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Means/K_means_numpy.ipynb) |  ||
+| **K-Median** | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Median/K_Median_numpy.ipynb) |  ||
+| **Random forest** | Code Link | Code Link ||
+| **Decision tree** | Code Link | Code Link ||
+| **Principle Component Analysis (PCA)** | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Principle%20Component%20Analysis/Principle%20Component%20Analysis_numpy.ipynb) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Principle%20Component%20Analysis/Principle_Component_Analysis_tensorflow.ipynb) ||
+| __Weight Initialization Methods in Neural Networks__ |  |  ||
+| ├── Gaussian distribution  | [Code Link](https://google.com) | [Code Link](https://google.com) ||
+| ├── Xavier initialization with logistic function | [Code Link](https://google.com) | [Code Link](https://google.com) ||
+| └── He initialization with ReLU function | [Code Link](https://google.com) | [Code Link](https://google.com) ||
+| __Back Propagation__  | [Code Link](https://google.com) | [Code Link](https://google.com) ||
+| __Optimal Parameter Search Methods__ |  |  ||
+| ├── Grid Search | [Code Link](https://google.com) | [Code Link](https://google.com) ||
+| ├── Gradient Descent Optimizer | [Code Link](https://google.com) | [Code Link](https://google.com) ||
+| ├── Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
+| ├── Nesterov Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
+| ├── RMSProp Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
+| └── Adam Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
+| __Regression Methods__ |   |   | |
+| ├── Linear Regression |   |   | |
+| └── Multivariate Linear Regression |  |  | |
+| __Deep Neural Networks__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| ├── for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| └── for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| **Auto Encoder** | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| etc (Jacobian, Hessian,...)  | Code Link | Code Link ||
 <br>
 
-| Convolution Neural Networks | Numpy code | Tensorflow code |
-|---|:---:|:---:|
-| Key Methodology | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| Vanilla CNN |  | [Code Link](https://google.com) |
-| LeNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| VGGNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| ResNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
+- ### CNN code : <br>
+| Convolution Neural Networks | Numpy code | Tensorflow code | Contents |
+|---|:---:|:---:|:---:|
+| __Key Methodology__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| __Vanilla CNN__ |  | [Code Link](https://google.com) | |
+| __LeNet__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| __VGGNet__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| __ResNet__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
