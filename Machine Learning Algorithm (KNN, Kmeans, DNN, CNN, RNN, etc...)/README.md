@@ -21,19 +21,19 @@
 | Decision tree | Code Link | Code Link |
 | Principle Component Analysis (PCA) |  |  |
 | __Optimal Parameter Search Method__ |  |  |
-| l----- Grid Search | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| l----- Gradient Descent Optimizer | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| l----- Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
-| l----- Nesterov Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
-| l----- RMSProp Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
-| l----- Adam Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
-| l----- Jacobian, Hessian, ..etc theory  |  |  |
+| └──   Grid Search | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| └── Gradient Descent Optimizer | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| └── Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
+| └── Nesterov Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
+| └── RMSProp Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
+| └── Adam Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
+| └── Jacobian, Hessian, ..etc theory  |  |  |
 | __Classic Regression Method__ |   |   |
-| l----- Linear Regression |   |   |
-| l----- Multivariate Linear Regression |  |  |
+| └── Linear Regression |   |   |
+| └── Multivariate Linear Regression |  |  |
 | __Deep Neural Networks__ | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| l----- for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| l----- for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| └── for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| └── for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) |
 | Auto Encoder | [Code Link](https://google.com) | [Code Link](https://google.com) |
 
 <br>
