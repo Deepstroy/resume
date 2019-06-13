@@ -38,7 +38,10 @@
 | __Deep Neural Networks__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | └─ for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | └─ for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) | |
-| **Auto Encoder** | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| **Auto Encoder** |  | | |
+| └─ Vanilla Auto Encoder | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| └─ Sparse Auto Encoder | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| └─ Denoising Auto Encoder | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | etc (Jacobian, Hessian,...)  | Code Link | Code Link ||
 <br>
 
