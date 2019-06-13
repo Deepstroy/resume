@@ -21,22 +21,22 @@
 | **Decision tree** | Code Link | Code Link ||
 | **Principle Component Analysis (PCA)** | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Principle%20Component%20Analysis/Principle%20Component%20Analysis_numpy.ipynb) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Principle%20Component%20Analysis/Principle_Component_Analysis_tensorflow.ipynb) ||
 | __Weight Initialization Methods in Neural Networks__ |  |  ||
-| ├─ Gaussian distribution  | [Code Link](https://google.com) | [Code Link](https://google.com) ||
-| ├─ Xavier initialization with logistic function | [Code Link](https://google.com) | [Code Link](https://google.com) ||
+| └─ Gaussian distribution  | [Code Link](https://google.com) | [Code Link](https://google.com) ||
+| └─ Xavier initialization with logistic function | [Code Link](https://google.com) | [Code Link](https://google.com) ||
 | └─ He initialization with ReLU function | [Code Link](https://google.com) | [Code Link](https://google.com) ||
 | __Back Propagation__  | [Code Link](https://google.com) | [Code Link](https://google.com) ||
 | __Optimal Parameter Search Methods__ |  |  ||
-| ├─ Grid Search | [Code Link](https://google.com) | [Code Link](https://google.com) ||
-| ├─ Gradient Descent Optimizer | [Code Link](https://google.com) | [Code Link](https://google.com) ||
-| ├─ Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
-| ├─ Nesterov Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
-| ├─ RMSProp Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
+| └─ Grid Search | [Code Link](https://google.com) | [Code Link](https://google.com) ||
+| └─ Gradient Descent Optimizer | [Code Link](https://google.com) | [Code Link](https://google.com) ||
+| └─ Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
+| └─ Nesterov Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
+| └─ RMSProp Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
 | └─ Adam Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
 | __Regression Methods__ |   |   | |
-| ├─ Linear Regression |   |   | |
+| └─ Linear Regression |   |   | |
 | └─ Multivariate Linear Regression |  |  | |
 | __Deep Neural Networks__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
-| ├─ for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| └─ for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | └─ for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | **Auto Encoder** | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | etc (Jacobian, Hessian,...)  | Code Link | Code Link ||
