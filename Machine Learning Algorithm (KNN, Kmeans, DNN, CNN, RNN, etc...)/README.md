@@ -12,16 +12,19 @@
 
 - ### Source code : <br>
 
-| ML/DL 이론 | Numpy code | Tensorflow code |
+| ML/DL Model | Numpy code | Tensorflow code |
 |---|:---:|:---:|
 | K-NN | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_numpy.ipynb) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_tensorflow.ipynb) |
 | K-Means | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Means/K_means_numpy.ipynb) |  |
 | K-Median | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Median/K_Median_numpy.ipynb) |  |
 | Linear Regression |   |   |
 | Multivariate Linear Regression |  |  |
-| Optimizer for GD <br>(논문 수식 기반)| [Code Link](https://google.com)  | [Code Link](https://google.com)  |
-| Deep Neural Networks | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| Optimizer for GD | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
+| __Deep Neural Networks__ | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| l----- for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| l----- for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) |
 | Principle Component Analysis(PCA) | [Code Link](https://google.com) | [Code Link](https://google.com) |
 | __Vanilla CNN__ | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| l----- VGG Net | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| l----- Res Net | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| l----- LeNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| l----- VGGNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| l----- ResNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
