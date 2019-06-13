@@ -10,7 +10,7 @@
 
 <br>
 
-- ### ML / DNN code: <br>
+- ### Section 1 : ML / DNN: <br>
 
 | Classic ML and DNN | Numpy code | Tensorflow code | Contents |
 |---|:---:|:---:|:---:|
@@ -35,7 +35,7 @@
 | __Regression Methods__ |   |   | |
 | └─ Linear Regression |   |   | |
 | └─ Multivariate Linear Regression |  |  | |
-| __★ Deep Neural Networks in numpy__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
+| __★ Deep Neural Networks in numpy__ |  |  | |
 | └─ for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | └─ for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | **Auto Encoder** |  | | |
@@ -45,8 +45,8 @@
 | etc (Jacobian, Hessian,...)  | Code Link | Code Link ||
 <br>
 
-- ### CNN code : <br>
-| Convolution Neural Networks | Numpy code | Tensorflow code | Contents |
+- ### Section 2 : Convolution Neural Networks <br>
+| CNN models | Numpy code | Tensorflow code | Contents |
 |---|:---:|:---:|:---:|
 | __Key Methodology__ | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | __Vanilla CNN__ |  | [Code Link](https://google.com) | |
