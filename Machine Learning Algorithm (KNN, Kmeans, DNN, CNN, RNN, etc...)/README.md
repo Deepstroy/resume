@@ -29,13 +29,13 @@
 | └─ Grid Search | [Code Link](https://google.com) | [Code Link](https://google.com) ||
 | └─ Gradient Descent Optimizer | [Code Link](https://google.com) | [Code Link](https://google.com) ||
 | └─ Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
-| └─ Nesterov Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
+| └─ Nesterov Momentum Optimizer ★ | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
 | └─ RMSProp Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
-| └─ Adam Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
+| └─ Adam Optimizer ★| [Code Link](https://google.com)  | [Code Link](https://google.com)  ||
 | __Regression Methods__ |   |   | |
 | └─ Linear Regression |   |   | |
 | └─ Multivariate Linear Regression |  |  | |
-| __★ Deep Neural Networks in numpy__ |  |  | |
+| __Deep Neural Networks in numpy ★__ |  |  | |
 | └─ for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | └─ for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | **Auto Encoder** |  | | |
