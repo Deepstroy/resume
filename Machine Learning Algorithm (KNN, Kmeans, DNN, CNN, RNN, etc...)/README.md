@@ -17,9 +17,9 @@
 | K-NN | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_numpy.ipynb) | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-NN/KNN_tensorflow.ipynb) |
 | K-Means | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Means/K_means_numpy.ipynb) |  |
 | K-Median | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Median/K_Median_numpy.ipynb) |  |
-| Random Forest |  |  |
-| Decision tree |  |  |
-| Principle Component Analysis(PCA) | | |
+| Random Forest | Code Link | Code Link |
+| Decision tree | Code Link | Code Link |
+| Principle Component Analysis (PCA) |  |  |
 | __Optimal Parameter Search Method__ |  |  |
 | l----- Grid Search | [Code Link](https://google.com) | [Code Link](https://google.com) |
 | l----- Gradient Descent Optimizer | [Code Link](https://google.com) | [Code Link](https://google.com) |
@@ -27,20 +27,21 @@
 | l----- Nesterov Momentum Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
 | l----- RMSProp Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
 | l----- Adam Optimizer | [Code Link](https://google.com)  | [Code Link](https://google.com)  |
-| l----- Jacobian,Hessian,..etc Theory  |  |  |
+| l----- Jacobian, Hessian, ..etc theory  |  |  |
 | __Classic Regression Method__ |   |   |
 | l----- Linear Regression |   |   |
 | l----- Multivariate Linear Regression |  |  |
 | __Deep Neural Networks__ | [Code Link](https://google.com) | [Code Link](https://google.com) |
 | l----- for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) |
 | l----- for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| Auto Encoder | [Code Link](https://google.com) | [Code Link](https://google.com) |
 
 <br>
 
 | Convolution Neural Networks | Numpy code | Tensorflow code |
 |---|:---:|:---:|
-| __Vanilla CNN__ |  | [Code Link](https://google.com) |
-| l----- Key Methodology | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| l----- LeNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| l----- VGGNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
-| l----- ResNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| Key Methodology | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| Vanilla CNN |  | [Code Link](https://google.com) |
+| LeNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| VGGNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
+| ResNet | [Code Link](https://google.com) | [Code Link](https://google.com) |
