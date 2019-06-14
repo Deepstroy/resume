@@ -35,6 +35,10 @@
 | __Regression Methods__ |   |   | |
 | └─ Linear Regression |   |   | |
 | └─ Multivariate Linear Regression |  |  | |
+| __Regularization__ |   |   | |
+| └─ L1 Regularization |   |   | |
+| └─ L2 Regularization |  |  | |
+| └─ Dropout / Inverted Dropout |  |  |  |
 | __Deep Neural Networks in numpy ★__ |  |  | |
 | └─ for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | └─ for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) | |
