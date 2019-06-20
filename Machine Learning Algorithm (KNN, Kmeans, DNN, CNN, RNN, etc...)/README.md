@@ -39,6 +39,8 @@
 | └─ L1 Regularization |   |   | |
 | └─ L2 Regularization |  |  | |
 | └─ Dropout / Inverted Dropout |  |  |  |
+| __Batch Normalization__ |   |   | |
+| └─ Batch Normalizatoin Step by Step |   |   | |
 | __Deep Neural Networks in numpy ★__ |  |  | |
 | └─ for Regression | [Code Link](https://google.com) | [Code Link](https://google.com) | |
 | └─ for Classification | [Code Link](https://google.com) | [Code Link](https://google.com) | |
