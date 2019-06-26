@@ -19,7 +19,7 @@
 - ## Section 2 : Tensorflow 없이 Numpy로 Deep Learning 구현하기 <br>
 
 > **구현의 목적**
->1. ML/DL의 수식을 기반으로 직접 코딩이 가능한 수준의 수학적 지식 습득 <br>
+>1. ML/DL의 주요 이론을 수식을 기반으로 직접 코딩이 가능한 수준의 수학적 지식 습득 <br>
 >2. Numpy와 python의 coding 능력 향상 <br>
 >3. 즉, Neural Network를 numpy와 low level tensorflow api 기반의 python code로 작성 가능한 실력함양<br> 
     (**Tensorflow의 tf.layers. 와 같은 High-level API를 사용하지 않음**)
@@ -32,21 +32,21 @@
 | **K-Median** | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/K-Median/K_Median_numpy.ipynb) |  |
 | **Principle Component Analysis (PCA)** | [Code Link(Numpy)](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Principle%20Component%20Analysis/Principle%20Component%20Analysis_numpy.ipynb) <br> [Code Link(Tensorflow)](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Principle%20Component%20Analysis/Principle_Component_Analysis_tensorflow.ipynb) ||
 | __Weight Initialization Methods in Neural Networks__ |  |  |  |
-| └─ Xavier initialization with logistic function | [Code Link](https://google.com) |  |
-| └─ He initialization with ReLU function | [Code Link](https://google.com) |  |
+| └─ Xavier initialization with logistic function | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Weight%20initialization/Xavier%20initialization/Xavier_initialization_with_logistic_function_numpy.ipynb) |  |
+| └─ He initialization with ReLU function | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Weight%20initialization/He%20initialization/He_initialization_with_relu.ipynb) |  |
 | __Optimal Parameter Search Methods__ |  |  |  |
-| └─ Grid Search | [Code Link](https://google.com) |  |
-| └─ Gradient Descent Optimizer | [Code Link](https://google.com) |  |
-| └─ Momentum Optimizer | [Code Link](https://google.com)  |  |
-| └─ Nesterov Momentum Optimizer ★ | [Code Link](https://google.com) |  |
-| └─ RMSProp Optimizer | [Code Link](https://google.com)  |  |
-| └─ Adam Optimizer ★| [Code Link](https://google.com)  |  |
+| └─ Grid Search | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Grid%20Search/Grid_Search_numpy.ipynb) |  |
+| └─ Gradient Descent Optimizer | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Gradient%20Descent%20Optimizer/Gradient_descent_numpy.ipynb) |  |
+| └─ Momentum Optimizer | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Momentum%20Optimizer/Momentum_Optimizer_tensorflow.ipynb)  |  |
+| └─ Nesterov Momentum Optimizer ★ | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Nesterov%20Momentum%20Optimizer/Momentum_with_NAG_tensosrflow.ipynb) |  |
+| └─ RMSProp Optimizer | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/RMSProp%20Optimizer/RMSProp_tensorflow.ipynb)  |  |
+| └─ Adam Optimizer ★| [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Adam%20Optimizer/Adam_optimizer_numpy.ipynb)  |  |
 | __Regression Methods__ |   |   | |
-| └─ Linear Regression |  [Code Link](https://google.com) |   | |
-| └─ Multivariate Linear Regression | [Code Link](https://google.com) |  | |
+| └─ Linear Regression |  [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Regression/Linear%20Regression/Linear_Regression_numpy.ipynb) |   | |
+| └─ Multivariate Linear Regression | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Regression/Multivariate%20Regression/Multivariate_Linear_Regression_numpy.ipynb) |  | |
 | __Batch Normalization__ |   |   | |
-| └─ Batch Normalizatoin Step by Step |  [Code Link](https://google.com) |   | |
-| └─ Batch Normalizatoin Implementation |  [Code Link](https://google.com)  |   | |
+| └─ Batch Normalizatoin Step by Step |  [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Batch%20Normalization/batchnorm_stepbystep/Batchnorm_stepbystep_tensorflow.ipynb) |   | |
+| └─ Batch Normalizatoin Implementation |  [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Batch%20Normalization/batchnorm_implement/Batch_normalization_Implementation.ipynb)  |   | |
 | __Deep Neural Networks in numpy ★__ |  |  | |
 | └─ for Regression | [Code Link](https://google.com) |
 | └─ for Classification | [Code Link](https://google.com)  |
