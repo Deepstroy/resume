@@ -1,8 +1,8 @@
 # ML/DL 필수 이론 및 구현코드
 
-- ## Section 1 : Mini Project / Paper implementation <br>
+<br>
 
- ### Deep learning 주요 논문 구현 및 실험 :<br>
+- ## Section 1 : Deep learning 주요 논문 구현 및 실험 <br>
 > **구현의 목적**
 >1. 주요 딥러닝 논문을 읽고 코드로 옴길 수 있는 구현능력 배양 <br>
 >2. 딥러닝 발전에 기여한 이론(Batch normalization 등)을 실제로 적용하여 실험 결과 체득 <br>
@@ -14,9 +14,10 @@
 | __GoogLeNet__  | [Code Link](https://google.com) | |
 | __Batch Normalization vs Transfer Learning ★__  | [Code Link](https://google.com) | |
 
-- ## Section 2 : ML / DNN: <br>
+<br>
 
- ### Tensorflow 없이 Numpy로 Deep Learning 구현하기 :<br>
+- ## Section 2 : Tensorflow 없이 Numpy로 Deep Learning 구현하기 <br>
+
 > **구현의 목적**
 >1. ML/DL의 수식을 기반으로 직접 코딩이 가능한 수준의 수학적 지식 습득 <br>
 >2. Numpy와 python의 coding 능력 향상 <br>
