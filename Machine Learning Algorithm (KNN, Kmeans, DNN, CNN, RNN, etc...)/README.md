@@ -1,6 +1,6 @@
 # ML/DL 필수 이론 및 구현코드
 
-- ### Section 1 : Mini Project / Paper implementation <br>
+- ## Section 1 : Mini Project / Paper implementation <br>
 
  ### Deep learning 주요 논문 구현 및 실험 :<br>
 > **구현의 목적**
@@ -12,9 +12,9 @@
 | __LeNet__ | [Code Link](https://google.com) | |
 | __VGGNet__  | [Code Link](https://google.com) | |
 | __GoogLeNet__  | [Code Link](https://google.com) | |
-| __Batch Normalization vs <br> Transfer Learning ★__  | [Code Link](https://google.com) | |
+| __Batch Normalization vs Transfer Learning ★__  | [Code Link](https://google.com) | |
 
-- ### Section 2 : ML / DNN: <br>
+- ## Section 2 : ML / DNN: <br>
 
  ### Tensorflow 없이 Numpy로 Deep Learning 구현하기 :<br>
 > **구현의 목적**
@@ -43,17 +43,10 @@
 | __Regression Methods__ |   |   | |
 | └─ Linear Regression |  [Code Link](https://google.com) |   | |
 | └─ Multivariate Linear Regression | [Code Link](https://google.com) |  | |
-| __Regularization__ |   |   | |
-| └─ L1 Regularization |   |   | |
-| └─ L2 Regularization |   |   | |
-| └─ Dropout / Inverted Dropout |  |  |  |
 | __Batch Normalization__ |   |   | |
-| └─ Batch Normalizatoin Step by Step |   |   | |
+| └─ Batch Normalizatoin Step by Step |  [Code Link](https://google.com) |   | |
+| └─ Batch Normalizatoin Implementation |  [Code Link](https://google.com)  |   | |
 | __Deep Neural Networks in numpy ★__ |  |  | |
 | └─ for Regression | [Code Link](https://google.com) |
 | └─ for Classification | [Code Link](https://google.com)  |
-| **Auto Encoder** |  | | |
-| └─ Vanilla Auto Encoder | [Code Link](https://google.com)  |
-| └─ Sparse Auto Encoder | [Code Link](https://google.com)  |
-| └─ Denoising Auto Encoder | [Code Link](https://google.com)  |
 <br>
