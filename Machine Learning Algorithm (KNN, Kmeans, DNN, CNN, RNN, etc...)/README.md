@@ -37,10 +37,10 @@
 | __Optimal Parameter Search Methods__ |  |  |  |
 | └─ Grid Search | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Grid%20Search/Grid_Search_numpy.ipynb) |  |
 | └─ Gradient Descent Optimizer | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Gradient%20Descent%20Optimizer/Gradient_descent_numpy.ipynb) |  |
-| └─ Momentum Optimizer | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Momentum%20Optimizer/Momentum_Optimizer_tensorflow.ipynb)  |  |
-| └─ Nesterov Momentum Optimizer ★ | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Nesterov%20Momentum%20Optimizer/Momentum_with_NAG_tensosrflow.ipynb) |  |
-| └─ RMSProp Optimizer | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/RMSProp%20Optimizer/RMSProp_tensorflow.ipynb)  |  |
-| └─ Adam Optimizer ★| [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Adam%20Optimizer/Adam_optimizer_numpy.ipynb)  |  |
+| └─ Momentum Optimizer | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Momentum%20Optimizer/Momentum_Optimizer_tensorflow.ipynb)  | ![](https://github.com/Deepstroy/Inventory/blob/master/Momentum_result.png?raw=true) |
+| └─ Nesterov Momentum Optimizer ★ | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Nesterov%20Momentum%20Optimizer/Momentum_with_NAG_tensosrflow.ipynb) | ![](https://github.com/Deepstroy/Inventory/blob/master/NAG_result.png?raw=true) |
+| └─ RMSProp Optimizer | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/RMSProp%20Optimizer/RMSProp_tensorflow.ipynb)  | ![](https://github.com/Deepstroy/Inventory/blob/master/rmsprop_result.png?raw=true) |
+| └─ Adam Optimizer ★| [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Optimizer/Adam%20Optimizer/Adam_optimizer_numpy.ipynb)  | ![](https://github.com/Deepstroy/Inventory/blob/master/adam_result.png?raw=true) |
 | __Regression Methods__ |   |   | |
 | └─ Linear Regression |  [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Regression/Linear%20Regression/Linear_Regression_numpy.ipynb) |   | |
 | └─ Multivariate Linear Regression | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Regression/Multivariate%20Regression/Multivariate_Linear_Regression_numpy.ipynb) |  | |
@@ -48,5 +48,5 @@
 | └─ Batch Normalizatoin Step by Step |  [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Batch%20Normalization/batchnorm_stepbystep/Batchnorm_stepbystep_tensorflow.ipynb) |   | |
 | └─ Batch Normalizatoin Implementation |  [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Batch%20Normalization/batchnorm_implement/Batch_normalization_Implementation.ipynb)  |   | |
 | __Deep Neural Networks in numpy ★__ |  |  | |
-| └─ for Boston house prices | [Code Link](https://google.com) |
+| └─ for Boston house prices | [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/DNN_innumpy/DNN_regression/DNN_regression_numpy.ipynb) |
 <br>
