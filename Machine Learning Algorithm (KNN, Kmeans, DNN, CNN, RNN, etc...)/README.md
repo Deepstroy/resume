@@ -48,6 +48,5 @@
 | └─ Batch Normalizatoin Step by Step |  [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Batch%20Normalization/batchnorm_stepbystep/Batchnorm_stepbystep_tensorflow.ipynb) |   | |
 | └─ Batch Normalizatoin Implementation |  [Code Link](https://github.com/Deepstroy/resume/blob/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...)/Batch%20Normalization/batchnorm_implement/Batch_normalization_Implementation.ipynb)  |   | |
 | __Deep Neural Networks in numpy ★__ |  |  | |
-| └─ for Regression | [Code Link](https://google.com) |
-| └─ for Classification | [Code Link](https://google.com)  |
+| └─ for Boston house prices | [Code Link](https://google.com) |
 <br>
