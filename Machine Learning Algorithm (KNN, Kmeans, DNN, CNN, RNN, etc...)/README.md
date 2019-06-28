@@ -12,8 +12,8 @@
 | __LeNet__ | [Code Link](https://google.com) | |
 | __VGGNet__  | [Code Link](https://google.com) | |
 | __GoogLeNet__  | [Code Link](https://google.com) | |
-| __Batch Normalization vs Transfer Learning ★__  | [Code Link](https://google.com) | |
-| __Data Augmentation vs Vanilla provide__  | [Code Link](https://google.com) | |
+| __Batch Normalization vs Transfer Learning ★__  | [Code Link](https://google.com) | ![](https://github.com/Deepstroy/Inventory/blob/master/comparision.png?raw=true) |
+| __Data Augmentation vs Raw Data__  | [Code Link](https://google.com) | |
 <br>
 
 - ## Section 2 : Tensorflow 없이 Numpy로 Deep Learning 구현하기 <br>
