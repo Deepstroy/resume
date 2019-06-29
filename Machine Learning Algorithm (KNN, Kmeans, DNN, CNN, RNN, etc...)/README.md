@@ -9,9 +9,8 @@
 
 | CNN models  | Source code | Contents |
 |---|:---:|:---:|
-| __LeNet__ | [Code Link](https://github.com/Deepstroy/GoogLeNet-V1-with-auxiliary/blob/master/InceptionV1_without_L2.ipynb) | ![](https://github.com/Deepstroy/Inventory/blob/master/googlenet_acc.png?raw=true) |
 | __VGGNet__  | [Code Link](https://google.com) | |
-| __GoogLeNet__  | [Code Link](https://google.com) | |
+| __GoogLeNet__  | [Code Link](https://github.com/Deepstroy/GoogLeNet-V1-with-auxiliary/blob/master/InceptionV1_without_L2.ipynb)  | ![](https://github.com/Deepstroy/Inventory/blob/master/googlenet_acc.png?raw=true)|
 | __VGG11 vs VGG11 using BatchNorm★__  | [Code Link](https://github.com/Deepstroy/Compare-vanilla-VGGNet-with-BatchNorm/blob/master/vanilla_vs_batchnorm/VGG_11_with_Batch_Normalization%20(1).ipynb) | ![](https://github.com/Deepstroy/Inventory/blob/master/comparision.png?raw=true) |
 
 <br>
