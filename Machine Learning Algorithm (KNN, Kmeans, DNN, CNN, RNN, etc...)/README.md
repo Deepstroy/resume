@@ -7,7 +7,7 @@
 >1. 주요 딥러닝 논문을 읽고 코드로 옴길 수 있는 구현능력 배양 <br>
 >2. 딥러닝 발전에 기여한 이론(Batch normalization 등)을 실제로 적용하여 실험 결과 체득 <br>
 
-| CNN models  | Source code | Contents |
+| CNN models  | Code | Contents |
 |---|:---:|:---:|
 | __VGGNet__  | [Code Link](https://google.com) | |
 | __GoogLeNet__  | [Code Link](https://github.com/Deepstroy/GoogLeNet-V1-with-auxiliary/blob/master/InceptionV1_without_L2.ipynb)  | ![](https://github.com/Deepstroy/Inventory/blob/master/googlenet_acc.png?raw=true)|
