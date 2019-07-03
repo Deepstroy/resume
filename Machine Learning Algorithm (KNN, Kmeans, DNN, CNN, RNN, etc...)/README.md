@@ -4,13 +4,13 @@
 
 - ## Section 1 : Deep Learning 주요 논문 구현 및 실험 <br>
 > **구현의 목적**
->1. 주요 딥러닝 논문을 읽고 코드로 옴길 수 있는 구현능력 함양 : Paper reproduce 능력<br>
+>1. 주요 딥러닝 논문을 읽고 코드로 옴길 수 있는 구현능력 함양 : Paper reproduce 능력 <br>
 >2. 딥러닝 발전에 기여한 논문(Batch normalization 등)을 기존 모델에 적용하여 결과를 체득함<br>
 
 | CNN models  | Code | Contents |
 |---|:---:|:---:|
 | __GoogLeNet using auxiliary classifier__  | [Code Link](https://github.com/Deepstroy/GoogLeNet-V1-with-auxiliary/blob/master/InceptionV1_without_L2.ipynb)  |![](https://github.com/Deepstroy/Inventory/blob/master/google_acc_loss.png?raw=true)|
-| __VGG11 vs VGG11 using BatchNorm★__  | [Code Link](https://github.com/Deepstroy/Compare-vanilla-VGGNet-with-BatchNorm/blob/master/vanilla_vs_batchnorm/VGG_11_with_Batch_Normalization%20(1).ipynb) | ![](https://github.com/Deepstroy/Inventory/blob/master/comparision.png?raw=true) |
+| __VGG11 vs Using BatchNorm★__  | [Code Link](https://github.com/Deepstroy/Compare-vanilla-VGGNet-with-BatchNorm/blob/master/vanilla_vs_batchnorm/VGG_11_with_Batch_Normalization%20(1).ipynb) | ![](https://github.com/Deepstroy/Inventory/blob/master/comparision.png?raw=true) |
 
 <br>
 
