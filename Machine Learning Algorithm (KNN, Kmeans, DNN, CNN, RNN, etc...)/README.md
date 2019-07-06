@@ -9,7 +9,7 @@
 
 | CNN models  | Code | Contents |
 |---|:---:|:---:|
-| __ResNet based on paper__  | [Code Link](https://github.com/Deepstroy/ResNet_based_on_paper/blob/master/Resnet_implementaion_basedon_paper.ipynb)  | ![](https://github.com/Deepstroy/Inventory/blob/master/ResNet_result.png?raw=true) |
+| __ResNet based on paper__  | [Code Link](https://github.com/Deepstroy/ResNet_based_on_paper/blob/master/Resnet_implementaion_basedon_paper.ipynb)  | ![](https://github.com/Deepstroy/ResNet_based_on_paper/blob/master/Resnet_version1.ipynb) |
 | __GoogLeNet using auxiliary classifier__  | [Code Link](https://github.com/Deepstroy/GoogLeNet-V1-with-auxiliary/blob/master/InceptionV1_without_L2.ipynb)  |![](https://github.com/Deepstroy/Inventory/blob/master/google_acc_loss.png?raw=true)|
 | __VGG11 vs Using BatchNorm★__  | [Code Link](https://github.com/Deepstroy/Compare-vanilla-VGGNet-with-BatchNorm/blob/master/vanilla_vs_batchnorm/VGG_11_with_Batch_Normalization%20(1).ipynb) | ![](https://github.com/Deepstroy/Inventory/blob/master/comparision.png?raw=true) |
 
