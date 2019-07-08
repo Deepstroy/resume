@@ -7,7 +7,7 @@
 >1. 주요 딥러닝 논문을 읽고 코드로 옴길 수 있는 구현능력 함양 : Paper reproduce 능력 <br>
 >2. 딥러닝 발전에 기여한 논문(Batch normalization 등)을 기존 모델에 적용하여 결과를 체득함<br>
 
-| CNN models  | Code | Contents |
+| CNN models  | Code | Experiment results |
 |---|:---:|:---:|
 | __ResNet reproduced by paper__  | [Code Link](https://github.com/Deepstroy/ResNet_based_on_paper/blob/master/Resnet_version1.ipynb)  | ![](https://github.com/Deepstroy/Inventory/blob/master/Resnet_result2.png?raw=true) |
 | __GoogLeNet using auxiliary classifier__  | [Code Link](https://github.com/Deepstroy/GoogLeNet-V1-with-auxiliary/blob/master/InceptionV1_without_L2.ipynb)  |![](https://github.com/Deepstroy/Inventory/blob/master/google_acc_loss.png?raw=true)|
