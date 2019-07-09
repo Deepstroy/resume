@@ -19,5 +19,15 @@ Master's degree
 
 
 ### Machine Learning / Deep Learning :
-   - [Machine Learning/Deep Learning 필수이론 및 구현코드](https://github.com/Deepstroy/resume/tree/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...))
+   - [Machine Learning/Deep Learning \*필수* 이론의 코드 구현](https://github.com/Deepstroy/resume/tree/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...) <br>
+
+| 미리보기  |
+|:---:|
+|  |
+
+   - [Machine Learning/Deep Learning Advanced Algorithm](  )
+   
+|[ Grad-CAM for visualize attention pixel of convolution layer](  )   |
+|:---:|
+| ![](https://github.com/Deepstroy/Inventory/blob/master/My_grad_cam2.png?raw=true) |  
    
