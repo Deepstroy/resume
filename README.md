@@ -19,7 +19,7 @@ Master's degree
 
 
 ### Machine Learning / Deep Learning :
-   - [Machine Learning/Deep Learning \*필수* 이론의 numpy 구현](https://github.com/Deepstroy/resume/tree/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...))
+   - [[Link] Machine Learning/Deep Learning \*필수* 이론 numpy level 구현](https://github.com/Deepstroy/resume/tree/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...))
 
 | 미리보기  |
 |:---:|
