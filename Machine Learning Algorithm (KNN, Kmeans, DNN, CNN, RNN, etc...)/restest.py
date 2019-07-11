@@ -1,24 +1,24 @@
-def residual_block(input_data, filters, strides, is_train, block_name):
-    with tf.variable_scope(block_name):
-        # Layer1
-        with tf.variable_scope('layer1'):
-            layer = tf.layers.Conv2D(filters=filters, kernel_size=3, use_bias=False,
-                                     strides=strides, padding='SAME', activation=None) \
-                (input_data)
-            layer = batch_norm_(layer, filters, is_train)
-            layer = tf.nn.relu(layer)
-        # Layer2
-        with tf.variable_scope('layer2'):
-            layer = tf.layers.Conv2D(filters=filters, kernel_size=3, use_bias=False,
-                                     strides=strides, padding='SAME', activation=None) \
-                (layer)
-            layer = batch_norm_(layer, filters, is_train)
-            layer = tf.nn.relu(layer)
-        # Projection layer
-        if input_data.shape[-1] != filters:
-            input_data = tf.layers.Conv2D(filters=filters, kernel_size=1,
-                                          strides=1,
-                                          padding='SAME',
-                                          activation=tf.nn.relu
-                                          )(input_data)
-        return layer + input_data
+import numpy as np
+
+class Person:
+    # 눈 두 개, 코 하나, 입 하나...
+    eyes = 2
+    nose = 1
+    mouth = 1
+    ears = 2
+    arms = 2
+    legs = 2
+
+    # 먹고 자고 이야기하고...
+    def eat(self):
+        print '얌냠...'
+
+    def sleep(self):
+        print '쿨쿨...'
+
+    def talk(self):
+        print '주절주절...'
+
+class Student(Person):
+    def study(self):
+        print "student 는 열공한다.. 추가야"

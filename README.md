@@ -29,7 +29,11 @@ Master's degree
 
    - [Machine Learning/Deep Learning Advanced Algorithm](  )
 
-|[ Grad-CAM for visualize attention pixel of convolution layer](  ) |
+|[1. Convolution Filter Visualization](  ) |
+|:---:|
+| ![]( https://github.com/Deepstroy/Inventory/blob/master/filter%20visualization-merged2.png?raw=true ) |  
+
+|[2. Grad-CAM for visualize attention pixel of convolution layer](  ) |
 |:---:|
 | ![](https://github.com/Deepstroy/Inventory/blob/master/My_grad_cam2.png?raw=true) |  
    
