@@ -33,7 +33,7 @@ Master's degree
 |:---:|
 | ![]( https://github.com/Deepstroy/Inventory/blob/master/filter%20visualization-merged2.png?raw=true ) |  
 
-|[2. [Code] CAM : Class Activation Map for visualize attention spot](  ) |
+|[2. [Code] CAM : Class Activation Map for visualize attention spot]( https://github.com/Deepstroy/CAM_ClassActivationMap/blob/master/CAM_class_activation_map.ipynb ) |
 |:---:|
 | ![](https://github.com/Deepstroy/Inventory/blob/master/CAM_result_pt.png?raw=true) |  
    
