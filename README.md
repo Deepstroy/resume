@@ -3,7 +3,9 @@
 ### Eucations :
 
 Ph.D. in Graduate School of Data Science, Seoul National University (2020 ~)
+
 M.S. in Computer Science & Engineering, Yonsei University (2019)
+
 B.S. in Computer Science & Engineering, Soongsil University (2017)
 
 
