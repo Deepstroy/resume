@@ -2,14 +2,9 @@
 
 ### Eucations :
 
-Bachelor's degree
-
-  - Computer Science & Engineering, Soongsil University (2017.02)
-
-Master's degree
-
-  - Computer Science & Engineering, Yonsei University (2019.02)
-  - Master's Thesis : Emotion recognition by facial expression and bio signal feature fusion with CNN / LSTM Models
+Ph.D. in Graduate School of Data Science, Seoul National University (2020 ~)
+M.S. in Computer Science & Engineering, Yonsei University (2019)
+B.S. in Computer Science & Engineering, Soongsil University (2017)
 
 
 ### Publications :
