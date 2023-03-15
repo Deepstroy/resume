@@ -1,5 +1,5 @@
 
-### Machine Learning / Deep Learning :
+## Machine Learning / Deep Learning 
    - __[[Page Link] Machine Learning/Deep Learning numpy level ](https://github.com/Deepstroy/resume/tree/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...))__
 
 | 미리보기  |
