@@ -1,19 +1,3 @@
-# Resume
-
-### Eucations :
-
-Ph.D. in Graduate School of Data Science, Seoul National University (2020 ~)
-
-M.S. in Computer Science & Engineering, Yonsei University (2019)
-
-B.S. in Computer Science & Engineering, Soongsil University (2017)
-
-
-### Publications :
-1. Kwon, Y. H., Shin, S. B., & Kim, S. D. (2018). _Electroencephalography based fusion two-dimensional (2D)-convolution neural networks (CNN) model for emotion recognition system._ Sensors, 18(5), 1383.
-<br> SCIE, Number of citations : 27
-2. Kwon, Y., Nan, Y., & Kim, S. D. (2017). _Transformation of EEG Signal for Emotion Analysis and Dataset Construction for DNN Learning._ In Advances in Computer Science and Ubiquitous Computing (pp. 96-101). Springer, Singapore.
-
 
 ### Machine Learning / Deep Learning :
    - __[[Page Link] Machine Learning/Deep Learning numpy level ](https://github.com/Deepstroy/resume/tree/master/Machine%20Learning%20Algorithm%20(KNN%2C%20Kmeans%2C%20DNN%2C%20CNN%2C%20RNN%2C%20etc...))__
